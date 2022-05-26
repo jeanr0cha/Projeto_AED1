@@ -10,11 +10,12 @@ Neste projeto, vocês serão desafiados a modelar e implementar um projeto de si
 O projeto consiste em um sistema de prestação de serviços automotivos Na região da grande vitória.
 O programa tem a finalidade de facilitar a comunicação e contratação entre usuário final e prestadores de serviços, onde prestadores de
 serviços ou empresas disponibilizam tais serviços para os clientes cadastrados no aplicativo.
-Os serviços podem ser disponibilizados Presencialmente na oficina do contratado ou atendimento caseiro, ou Delivery caso o usuário esteje 
+Os serviços podem ser com atendimento presencialmente na oficina do contratado ou atendimento caseiro, ou Delivery caso o usuário esteje 
 precisando de atendimento em vias publicas. 
 
+### HELP CAR SERVIÇOS AUTOMOTIVOS
 
-Os serviços prestados podem ser:
+   Serviços prestados podem ser:
 
 * Reparos Pneu furado ou troca do mesmo.
 * Reparos Elétrico simples.
